@@ -41,6 +41,7 @@ body{
 .logoenome{
     display: flex;
     vertical-align: center;
+    margin: 10px;
 }
 .frase{
     text-align: center;
