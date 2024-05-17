@@ -37,3 +37,8 @@ body{
     background-color: #f4f813;
     color: black;
 }
+
+.logoenome{
+    display: flex;
+    vertical-align: center;
+}
